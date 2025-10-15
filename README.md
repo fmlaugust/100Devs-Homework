@@ -2,7 +2,7 @@
 
 **Course:** #100Devs - Free Software Engineering Bootcamp  
 **Instructor:** Leon Noel  
-**Student:** Felicia M. Laster  
+**Student:** [Your Name]  
 **Start Date:** Monday, October 13, 2025  
 **End Date:** Friday, March 20, 2026  
 **Duration:** 23 weeks | 69 classes  
@@ -124,11 +124,123 @@ By the end of this bootcamp, I will be able to:
 
 ## 🏆 Completed Classes
 
-- [x] **Class 1** - Become a Software Engineer for Free *(Oct 13, 2025)*
-- [ ] **Class 2** - Learn HTML *(Oct 15, 2025)*
-- [ ] **Class 3** - Learn More HTML *(Oct 17, 2025)*
-- [ ] **Class 4** - Learn CSS *(Oct 20, 2025)*
-- [ ] ... *(69 total classes)*
+### Week 1: October 13-17, 2025
+- [x] **Class 1** - Become a Software Engineer for Free *(Oct 13)*
+- [ ] **Class 2** - Learn HTML *(Oct 15)*
+- [ ] **Class 3** - Learn More HTML *(Oct 17)*
+
+### Week 2: October 20-24, 2025
+- [ ] **Class 4** - Learn CSS *(Oct 20)*
+- [ ] **Class 5** - Learn CSS Layout *(Oct 22)*
+- [ ] **Class 6** - Let's Review HTML & CSS *(Oct 24)*
+
+### Week 3: October 27-31, 2025
+- [ ] **Class 7** - Learn Responsive CSS *(Oct 27)*
+- [ ] **Class 8** - Write Bad CSS *(Oct 29)*
+- [ ] **Class 9** - Networking Night *(Oct 31)*
+
+### Week 4: November 3-7, 2025
+- [ ] **Class 10** - Rant & Review *(Nov 3)*
+- [ ] **Class 11** - Learn CAA Layout & Flexbox *(Nov 5)*
+- [ ] **Class 12** - Learn JavaScript *(Nov 7)*
+
+### Week 5: November 10-14, 2025
+- [ ] **Class 13** - Fun JavaScript Examples *(Nov 10)*
+- [ ] **Class 14** - JavaScript Functions for Beginners *(Nov 12)*
+- [ ] **Class 15** - How To Start Freelancing *(Nov 14)*
+
+### Week 6: November 17-21, 2025
+- [ ] **Class 16** - Learn JavaScript Loops *(Nov 17)*
+- [ ] **Class 17** - No Stream – Networking Night 2 *(Nov 19)*
+- [ ] **Class 18** - Project Night *(Nov 21)*
+
+### Week 7: November 24-28, 2025
+- [ ] **Class 19** - Arrays *(Nov 24)*
+- [ ] **Class 20** - Practice JavaScript Arrays *(Nov 26)*
+- [ ] **Class 21** - Learn JavaScript Objects *(Nov 28)*
+- [ ] 📚 **Super Review:** Front End Crash Course (9 hours)
+
+### Week 8: December 1-5, 2025
+- [ ] **Class 22** - More Fun with Objects *(Dec 1)*
+- [ ] **Class 23** - JavaScript APIs For Beginners *(Dec 3)*
+- [ ] **Class 24** - Git & GitHub for Beginners *(Dec 5)*
+
+### Week 9: December 8-12, 2025
+- [ ] **Class 25** - Fix Your Resume So You Get Tech Interviews *(Dec 8)*
+- [ ] **Class 26** - Build a Simple App using APIs *(Dec 10)*
+- [ ] **Class 27** - Get Data from NASA! Simple JavaScript API *(Dec 12)*
+
+### Week 10: December 15-19, 2025
+- [ ] **Class 28** - JavaScript API Practice for Beginners (30-hour course) *(Dec 15)*
+- [ ] **Class 29** - Review the Basics of JavaScript *(Dec 17)*
+- [ ] **Class 30** - OOP But It Actually Makes Sense *(Dec 19)*
+
+### Week 11: December 22-26, 2025
+- [ ] **Class 31** - What is Inheritance & Polymorphism *(Dec 22)*
+- [ ] **Class 32** - Object Oriented Programming with JS Review *(Dec 24)*
+- [ ] **Class 33** - Why You Are Not Getting Interviews *(Dec 26)*
+- [ ] 📚 **Super Review:** JavaScript Crash Course
+
+### Week 12: December 29, 2025 - January 2, 2026
+- [ ] **Class 34** - Crush Your Technical Interviews *(Dec 29)*
+- [ ] **Class 35** - Easy Intro to Node, Promises & Async/Await *(Dec 31)*
+- [ ] **Class 36** - JavaScript Event Loop For Beginners *(Jan 2)*
+
+### Week 13: January 5-9, 2026
+- [ ] **Class 37** - No Express! Fullstack App Just Node *(Jan 5)*
+- [ ] **Class 38** - Build Your Own API Hosted on Heroku *(Jan 7)*
+- [ ] **Class 39** - CRUD APIs For Beginners *(Jan 9)*
+
+### Week 14: January 12-16, 2026
+- [ ] **Class 40** - What is MongoDB? CRUD Apps for Beginners *(Jan 12)*
+- [ ] **Class 41** - Build a Simple CRUD App with Express, MongoDB, & EJS *(Jan 14)*
+- [ ] **Class 42** - No Stream *(Jan 16)*
+
+### Week 15: January 19-23, 2026
+- [ ] **Class 43** - No Stream (MLK Day) *(Jan 19)*
+- [ ] **Class 44** - How to Build Fullstack Apps with JavaScript *(Jan 21)*
+- [ ] **Class 45** - How to Build Fullstack Apps with JavaScript *(Jan 23)*
+
+### Week 16: January 26-30, 2026
+- [ ] **Class 46** - Build a Node.js MVC App *(Jan 26)*
+- [ ] **Class 47** - Build a Node.js MVC App *(Jan 28)*
+- [ ] **Class 48** - How To Prepare for #THEHUNT *(Jan 30)*
+- [ ] 📚 **Super Review:** Back End Crash Course
+
+### Week 17: February 2-6, 2026
+- [ ] **Class 49** - Huntober Prep *(Feb 2)*
+- [ ] **Class 50** - Easily Add Authentication To Your Node Apps! *(Feb 4)*
+- [ ] **Class 51** - Easily Add Authentication To Your Node Apps! *(Feb 6)*
+
+### Week 18: February 9-13, 2026
+- [ ] **Class 52** - Easily Add Authentication To Your Node Apps! *(Feb 9)*
+- [ ] **Class 53** - Let's Build a Social Network *(Feb 11)*
+- [ ] **Class 54** - Let's Build a Social Network *(Feb 13)*
+
+### Week 19: February 16-20, 2026
+- [ ] **Class 55** - Let's Build a Social Network *(Feb 16)*
+- [ ] **Class 56** - One Project that Will Get You Hired (100 Hours Project) *(Feb 18)*
+- [ ] **Class 57** - One Project that Will Get You Hired (100 Hours Project) *(Feb 20)*
+
+### Week 20: February 23-27, 2026
+- [ ] **Class 58** - React JS Tutorial for Beginners *(Feb 23)*
+- [ ] **Class 59** - No Stream *(Feb 25)*
+- [ ] **Class 60** - No Stream *(Feb 27)*
+
+### Week 21: March 2-6, 2026
+- [ ] **Class 61** - How To Pass ANY Technical Interview *(Mar 2)*
+- [ ] **Class 62** - How To Pass ANY Technical Interview *(Mar 4)*
+- [ ] **Class 63** - How To Pass ANY Technical Interview *(Mar 6)*
+
+### Week 22: March 9-13, 2026
+- [ ] **Class 64** - Speed Run Getting a Job *(Mar 9)*
+- [ ] **Class 65** - Networked My Way into 30 Engineering Jobs *(Mar 11)*
+- [ ] **Class 66** - No Stream Hitlist Building *(Mar 13)*
+
+### Week 23: March 16-20, 2026
+- [ ] **Class 67** - No Stream Hitlist Building *(Mar 16)*
+- [ ] **Class 68** - How to Get a Job *(Mar 18)*
+- [ ] **Class 69** - Last Class 🎉 COURSE COMPLETED! *(Mar 20)*
 
 ---
 
